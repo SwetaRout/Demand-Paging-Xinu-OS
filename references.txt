@@ -1,0 +1,9 @@
+Note :
+
+Kindly run individual test cases. Because I doubt some test cases may fail if run all at once.
+
+References :
+Intel guides
+TA (Chakshu Singla)
+https://github.com/nithya-kumar/CSC501_S17_PA3/tree/master/paging 
+(just how to start with the project.. and the design is done by me)
